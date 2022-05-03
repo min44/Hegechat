@@ -3,10 +3,18 @@ node_modules
 [Bb]in/
 [Oo]bj/
 
-package-lock.json
+riderModule.iml
 bundle.js
-*.fs.js
+package-lock.json
+
+/packages/
+/_ReSharper.Caches/
+build/
+
+.idea/
+.vs/
 .fake
 .ionide
 
+*.fs.js
 *.sln.DotSettings.user

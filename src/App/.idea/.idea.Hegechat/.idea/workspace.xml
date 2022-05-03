@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b43b94d-464c-485f-aecb-248a81c3a936" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hegechat/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hegechat/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hegechat/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hegechat/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hegechat/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hegechat/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hegechat.Core/App.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hegechat.Core/Hegechat.Core.fsproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hegechat.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hegechat.sln.DotSettings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Hegechat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hegechat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hegechat.Core/App.fs" beforeDir="false" afterPath="$PROJECT_DIR$/Hegechat.Core/App.fs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +70,14 @@
       <updated>1651555920175</updated>
       <workItem from="1651555939629" duration="819000" />
       <workItem from="1651557189045" duration="558000" />
+      <workItem from="1651559304612" duration="5872000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
