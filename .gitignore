@@ -3,6 +3,8 @@ node_modules
 [Bb]in/
 [Oo]bj/
 
+.idea/
+
 riderModule.iml
 bundle.js
 package-lock.json
@@ -11,7 +13,6 @@ package-lock.json
 /_ReSharper.Caches/
 build/
 
-.idea/
 .vs/
 .fake
 .ionide
