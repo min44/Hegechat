@@ -1,5 +1,5 @@
 # Hegechat
-Pen trial web application based on the Sutil project.
+The pen trial web application based on the Sutil project.
 
 To get started:
 
